@@ -1,7 +1,0 @@
-print("4x + 5 = 17")
-x = int(input("hva tror du er løsningen? "))
-
-vs = 4*x + 5
-hs = 17
-
-print("venstre side =", vs, "og høyre side =", hs)
